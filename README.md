@@ -6,14 +6,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I'm+Hossain+Rasel" alt="Typing SVG" />
 </a>
 
-```javascript
-const hossain = {
-  university: "International Islamic University Chittagong",
-  year: "4th Year CSE",
-  passion: ["Cloud Engineering", "DevOps", "AI Research"],
-  current_focus: "Building Scalable Infrastructure"
-};
-```
+<div align="center">
+  <img src="carbon.png" width="600" alt="Hossain Rasel Code Profile" />
+</div>
 <p>
   <i>Passionate about building scalable web applications, automating infrastructure, and cloud engineering.</i>
 </p>
