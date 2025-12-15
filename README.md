@@ -6,8 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=I'm+Hossain+Rasel" alt="Typing SVG" />
 </a>
 
-```bash
-root@rasel:~$ node about_me.js
+```javascript
 const hossain = {
   university: "International Islamic University Chittagong",
   year: "4th Year CSE",
@@ -127,8 +126,6 @@ const hossain = {
 
 ## 🔮 Future Learning Goals: ML & AI
 
-[<img src="https://img.shields.io/badge/Python-282C34?logo=python&logoColor=3776AB" alt="Python" height="25" />]()
-&nbsp;
 [<img src="https://img.shields.io/badge/TensorFlow-282C34?logo=tensorflow&logoColor=FF6F00" alt="TensorFlow" height="25" />]()
 &nbsp;
 [<img src="https://img.shields.io/badge/PyTorch-282C34?logo=pytorch&logoColor=EE4C2C" alt="PyTorch" height="25" />]()
